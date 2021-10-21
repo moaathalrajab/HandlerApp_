@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/MoaathAlrajab/Downloads/HandlerApp/app/build/intermediates/res/merged/debug/menu_activity_handler_app.xml.flat",
+        "source": "/Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/res/menu/activity_handler_app.xml"
+    },
+    {
+        "merged": "/Users/MoaathAlrajab/Downloads/HandlerApp/app/build/intermediates/res/merged/debug/layout_activity_handler_app.xml.flat",
+        "source": "/Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/res/layout/activity_handler_app.xml"
+    },
+    {
+        "merged": "/Users/MoaathAlrajab/Downloads/HandlerApp/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_search.png.flat",
+        "source": "/Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/res/drawable-mdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/MoaathAlrajab/Downloads/HandlerApp/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher.png.flat",
+        "source": "/Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/MoaathAlrajab/Downloads/HandlerApp/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/MoaathAlrajab/Downloads/HandlerApp/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_search.png.flat",
+        "source": "/Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/res/drawable-xhdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/MoaathAlrajab/Downloads/HandlerApp/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_search.png.flat",
+        "source": "/Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/res/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/MoaathAlrajab/Downloads/HandlerApp/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/MoaathAlrajab/Downloads/HandlerApp/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]

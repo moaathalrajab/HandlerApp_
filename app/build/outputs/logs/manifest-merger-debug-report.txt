@@ -1,0 +1,100 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml:1:1-22:12
+INJECTED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml:1:1-22:12
+INJECTED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml:1:1-22:12
+INJECTED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml:1:1-22:12
+MERGED from [com.android.support:design:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/fc4e2ab3aad6064770dd738c206cbe1e/design-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/96bc07a4aac63c7045ab8048d5843ff4/support-v4-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/5999653a58a513f1695110305774686b/appcompat-v7-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/ad2e9b96ca9c8cc90f395ca330d0573f/recyclerview-v7-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/f2bfeae3a64db8f45705f8dcf899a29f/transition-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/e4b8803d7b80ae74f30ce586589e9bfb/support-media-compat-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/965e18b1b5c5b5e3b57b84236b0ea4d5/support-fragment-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/17982dea21d709486085218a0878a21e/support-core-utils-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/83d2fc75e16f95c73778c848db8c1ee3/animated-vector-drawable-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/e400d0c10dcd24b5705c8ff2685bd17d/support-core-ui-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/cc20934b26b01b61cd7cb509dedfa212/support-vector-drawable-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/c217ad5798cd45381e7269b05916df01/support-compat-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/3f42638e622181c82f32785addecb8a3/runtime-1.0.3/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml:1:1-22:12
+INJECTED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml:1:1-22:12
+INJECTED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml:1:1-22:12
+	package
+		ADDED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml:2:5-46
+		INJECTED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml:7:5-20:19
+	android:label
+		ADDED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml:8:9-45
+	android:theme
+		ADDED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.androidunleashed.handlerapp.HandlerAppActivity
+ADDED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml:11:9-19:20
+	android:label
+		ADDED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml:13:13-63
+	android:name
+		ADDED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml:12:13-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/fc4e2ab3aad6064770dd738c206cbe1e/design-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/fc4e2ab3aad6064770dd738c206cbe1e/design-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/96bc07a4aac63c7045ab8048d5843ff4/support-v4-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/96bc07a4aac63c7045ab8048d5843ff4/support-v4-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/5999653a58a513f1695110305774686b/appcompat-v7-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/5999653a58a513f1695110305774686b/appcompat-v7-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/ad2e9b96ca9c8cc90f395ca330d0573f/recyclerview-v7-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/ad2e9b96ca9c8cc90f395ca330d0573f/recyclerview-v7-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/f2bfeae3a64db8f45705f8dcf899a29f/transition-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/f2bfeae3a64db8f45705f8dcf899a29f/transition-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/e4b8803d7b80ae74f30ce586589e9bfb/support-media-compat-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/e4b8803d7b80ae74f30ce586589e9bfb/support-media-compat-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/965e18b1b5c5b5e3b57b84236b0ea4d5/support-fragment-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/965e18b1b5c5b5e3b57b84236b0ea4d5/support-fragment-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/17982dea21d709486085218a0878a21e/support-core-utils-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/17982dea21d709486085218a0878a21e/support-core-utils-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/83d2fc75e16f95c73778c848db8c1ee3/animated-vector-drawable-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/83d2fc75e16f95c73778c848db8c1ee3/animated-vector-drawable-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/e400d0c10dcd24b5705c8ff2685bd17d/support-core-ui-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/e400d0c10dcd24b5705c8ff2685bd17d/support-core-ui-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/cc20934b26b01b61cd7cb509dedfa212/support-vector-drawable-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/cc20934b26b01b61cd7cb509dedfa212/support-vector-drawable-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/c217ad5798cd45381e7269b05916df01/support-compat-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/c217ad5798cd45381e7269b05916df01/support-compat-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/3f42638e622181c82f32785addecb8a3/runtime-1.0.3/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/3f42638e622181c82f32785addecb8a3/runtime-1.0.3/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/AndroidManifest.xml

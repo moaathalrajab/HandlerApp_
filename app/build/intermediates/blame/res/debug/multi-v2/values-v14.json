@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/MoaathAlrajab/Downloads/HandlerApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/Users/MoaathAlrajab/Downloads/HandlerApp/app/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endColumns": "77",
+                        "endOffsets": "92"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "76",
+                        "endOffsets": "127"
+                    }
+                },
+                {
+                    "source": "/Users/MoaathAlrajab/.gradle/caches/transforms-2/files-2.1/5999653a58a513f1695110305774686b/appcompat-v7-27.0.2/res/values-v14/values-v14.xml",
+                    "from": {
+                        "startLines": "2,7,8,9,15",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,331,402,485,895",
+                        "endLines": "6,7,8,14,20",
+                        "endColumns": "12,70,82,12,12",
+                        "endOffsets": "326,397,480,890,1312"
+                    },
+                    "to": {
+                        "startLines": "3,8,9,10,16",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "132,408,479,562,972",
+                        "endLines": "7,8,9,15,21",
+                        "endColumns": "12,70,82,12,12",
+                        "endOffsets": "403,474,557,967,1389"
+                    }
+                }
+            ]
+        }
+    ]
+}
